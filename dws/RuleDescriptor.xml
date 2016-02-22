@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FeedInfo>
+
+  <Rule>
+
+    <RuleInfo>
+      <RuleName>Rule 1</RuleName>
+    </RuleInfo>
+
+    <Rules>
+      <item name ="FirstName" NoOfChars ="ALL"/>
+      <item name ="LastName" NoOfChars ="6"/>
+    </Rules>
+
+  </Rule>
+
+  <Rule>
+
+    <RuleInfo>
+      <RuleName>Rule 2</RuleName>
+    </RuleInfo>
+
+    <Rules>
+      <item name ="FirstName" NoOfChars ="ALL"/>
+       <item name ="SSN" NoOfChars ="ALL"/>
+    </Rules>
+
+  </Rule>
+   <Rule>
+
+    <RuleInfo>
+      <RuleName>Rule 3</RuleName>
+    </RuleInfo>
+
+    <Rules>
+      
+      <item name ="LastName" NoOfChars ="6"/>
+      <item name ="SSN" NoOfChars ="ALL"/>
+    </Rules>
+
+
+  </Rule>
+
+</FeedInfo>
