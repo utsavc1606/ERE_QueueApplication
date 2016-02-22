@@ -1,0 +1,4 @@
+Input_Folder = D:\ERE_QueueApplication\Input
+Output_Folder = D:\ERE_QueueApplication\Output
+Log_Folder = D:\ERE_QueueApplication\Log
+Classification = default
